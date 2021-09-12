@@ -1,0 +1,2 @@
+11 Mar 2019 12:57:49 GMT: Log 'EclipseCompiler.txt' opened: 11 Mar 2019 12:57:49 GMT with name C:\Users\DOLPHIN-PC\Desktop\CSE\Lab 5\EclipseCompiler.txt
+11 Mar 2019 12:58:05 GMT: Log 'EclipseCompiler.txt' opened: 11 Mar 2019 12:58:05 GMT with name C:\Users\DOLPHIN-PC\Desktop\CSE\Lab 5\EclipseCompiler.txt

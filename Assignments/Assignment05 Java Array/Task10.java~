@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class Task10 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner (System.in);
+        int i, n;
+        System.out.print("Please Enter Quantity: ");
+        n = sc.nextInt();
+        int[] number = new int[n];
+        for (i = 0; i<n ; ++i) {
+            System.out.println("Please Enter ID:");
+            id[i] = sc.nextInt();;
+        }
+    }
+}

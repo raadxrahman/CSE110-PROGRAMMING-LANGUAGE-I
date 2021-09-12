@@ -1,0 +1,1 @@
+5 Feb 2019 15:13:00 GMT: Log 'EclipseCompiler.txt' opened: 5 Feb 2019 15:13:00 GMT with name I:\\EclipseCompiler.txt

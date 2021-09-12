@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class Task27
+{
+          public static void main (String[] args)
+          {
+                    int num = 1, int factors = 0 , c=1 ;
+                    while ( num<=100 ){ 
+                              while (c<=n){
+                                        if (n%c==0){
+                                                  factors ++;
+                                                  c ++;
+                                        }else{ 
+                                                  c ++ ;
+                                        }         
+                              }
+                              if (factors==2)
+                                        System.out.println(n);
+                              n++ ;
+                              else
+                                        n++ ;
+                    }
+          }
+}

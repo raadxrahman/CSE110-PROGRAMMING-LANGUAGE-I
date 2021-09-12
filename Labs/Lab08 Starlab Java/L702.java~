@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class L702
+{
+    public static void main(String[] args)
+    { 
+        Scanner sc= new Scanner(System.in);
+        System.out.println("Please enter number");
+        int num = sc.nextInt();
+        for (int c=1; c<=num; ++c )
+        {
+            System.out.print("*");
+        }
+        System.out.println();
+    }
+}

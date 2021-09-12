@@ -1,0 +1,27 @@
+import java.util.Scanner;
+public class L713
+{
+    public static void main(String[] args) 
+    { 
+        Scanner scanner = new Scanner (System.in);
+        System.out.println("Please Enter Triangle Height");
+        int size = scanner.nextInt();
+        int columnline=1, space=size;
+        for(int i=1; i<=size+(size-1); ++i)
+        {
+            for(int j=space-1; j>=1; --j){
+                System.out.print(" ");
+            }
+            for(int j=1; j<=columnline; ++j){
+                System.out.print(j);
+            }
+            System.out.println();
+            if(i<size){
+                columnline+=2;
+                --space;}
+            else{
+                columnline-=2;
+                ++space;}
+        }
+    }
+}

@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class L704
+{
+    public static void main(String[] args)
+    { 
+        Scanner scanner= new Scanner(System.in);
+        System.out.println("Please enter line number");
+        int linenum = scanner.nextInt();
+        System.out.println("Please enter column number");
+        int columnnum = scanner.nextInt();
+        for (int linec=1;linec<=linenum; ++linec )
+        { 
+            for (int columnc=1; columnc<=columnnum; ++columnc)
+            {
+                System.out.print(columnc);
+            }
+        System.out.println();
+        }
+    }
+}

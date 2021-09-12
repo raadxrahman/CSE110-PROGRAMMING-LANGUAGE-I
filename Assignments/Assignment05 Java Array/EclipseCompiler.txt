@@ -1,0 +1,21 @@
+17 Mar 2019 17:34:53 GMT: Log 'EclipseCompiler.txt' opened: 17 Mar 2019 17:34:53 GMT with name C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array\EclipseCompiler.txt
+17 Mar 2019 17:44:10 GMT: diagnostics = javax.tools.DiagnosticCollector@10ddcb1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3cee28
+fileObjects = [C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array\Task01.java]
+17 Mar 2019 17:44:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cbafbc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array;F:\Raad\BRAC\BRAC\TSR\Annajiat\Software\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+17 Mar 2019 17:44:12 GMT: Compiler call returned
+17 Mar 2019 17:47:58 GMT: diagnostics = javax.tools.DiagnosticCollector@16f5713
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@751884
+fileObjects = [C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array\Task01.java]
+17 Mar 2019 17:47:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@157368f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array;F:\Raad\BRAC\BRAC\TSR\Annajiat\Software\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+17 Mar 2019 17:47:58 GMT: Compiler call returned
+17 Mar 2019 19:44:08 GMT: diagnostics = javax.tools.DiagnosticCollector@6035ed
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d420c
+fileObjects = [C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array\Task03.java]
+17 Mar 2019 19:44:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19872' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array;F:\Raad\BRAC\BRAC\TSR\Annajiat\Software\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+17 Mar 2019 19:44:11 GMT: Compiler call returned
+17 Mar 2019 19:44:34 GMT: diagnostics = javax.tools.DiagnosticCollector@53b76b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@cfd89c
+fileObjects = [C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array\Task04.java]
+17 Mar 2019 19:44:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15b7cb4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\DOLPHIN-PC\Desktop\CSE\Assignments\Assignment05 Java Array;F:\Raad\BRAC\BRAC\TSR\Annajiat\Software\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+17 Mar 2019 19:44:35 GMT: Compiler call returned

@@ -1,0 +1,20 @@
+//Write javacode of a program that finds the number of hours, minutes, and seconds in a given number of seconds
+
+import java.util.Scanner;
+public class Task05
+{
+    public static void main(String[] args)
+    {
+        Scanner sc = new Scanner ( System.in );
+        int seconds, minutes, hours;
+        System.out.println("Please Enter Seconds: ");
+        seconds = sc.nextInt();
+        minutes = seconds/60;
+        seconds = seconds%60;
+        hours = minutes/60;
+        minutes = minutes%60;
+        System.out.println(hours+" hour");
+        System.out.println(minutes+" minute");
+        System.out.println(seconds+" second");
+    }
+}

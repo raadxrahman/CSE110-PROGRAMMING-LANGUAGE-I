@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class L703
+{
+    public static void main(String[] args)
+    { 
+        Scanner scanner= new Scanner(System.in);
+        System.out.println("Please enter line number");
+        int lineNum = scanner.nextInt();
+        System.out.println("Please enter star number");
+        int starNum = scanner.nextInt();
+        for (int lineCount=1;lineCount<=lineNum; ++lineCount )
+        { 
+            for (int starCount=1; starCount<=starNum; ++starCount)
+            {
+                System.out.print("*");
+            }
+        System.out.println();
+        }
+    }
+}

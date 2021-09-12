@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Task05
+{
+          public static void main (String[] args)
+          {
+                    Scanner scanner = new Scanner (System.in);
+                    System.out.println("Please enter value of N");
+                    int N = Scanner.nextInt();
+                    c = 1 , int sum = 0 ;
+                    while ( c < N ){
+                              sum = sum + ( c * c * c )
+                    }
+                    c ++
+          }
+}
+                 

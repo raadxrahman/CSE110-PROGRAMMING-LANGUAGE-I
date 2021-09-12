@@ -1,0 +1,34 @@
+Q9) Ask user for quantity, take ID (int) and full name (String) 
+and mark (double) of that many students.
+Print average mark and then print all names and IDs
+
+Sample Input:
+2
+12345678
+Mr a
+20
+12345679
+Mr b
+18
+
+Sample Output:
+Average mark: 19
+Mr a: 20
+Mr b: 18
+
+Q10) Ask user for quantity and take that many numbers (int) from user.
+Print YES/NO. Print YES if numbers are strictly increasing. NO otherwise.
+That means all later numbers are larger than all previous numbers.
+Further reading: https://en.wikipedia.org/wiki/Sequence
+
+Q11)
+Design Employee class so that following code prints 12000
+class EmployeeTester {
+	public static void main (String[] args) {
+		Employee a = new Employee();
+		a.name = "Mohammad Java Choudhury";
+		a.salary = 10000;
+		a.increaseSalary(20); //percentage
+		System.out.println(a.salary);//prints 12000		
+	}
+}

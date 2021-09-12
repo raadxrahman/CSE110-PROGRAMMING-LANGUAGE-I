@@ -1,0 +1,32 @@
+import java.util.Scanner;
+public class Task21
+{
+          public static void main (String[] args)
+          {
+                    Scanner scanner = new Scanner (System.in);
+                    System.out.println("Please enter number");
+                    int n = scanner.nextInt();
+                    int digit = 0, product = 0;
+                    while ( n/10!=0 ){ 
+                              digit += 1;
+                              n = n / 10 ;
+                    }else{
+                              digit += 1 ;
+                              digit -= 1 ; 
+                              product=1
+                              count=1
+                                        while (count <= digit ){
+                                        product=product*10;
+                                        count+=1;
+                              }else{
+                                        product=product*10;
+                                        while (n/product>=0){
+                                                  digit=n/product;
+                                                  System.out.println(digit);
+                                                  n=n%product;
+                                                  product=product/10;
+                                        }
+                              }
+                    }
+          }
+}

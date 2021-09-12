@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Task04
+{
+          public static void main(String[] args)
+          {
+                    Scanner scanner = new Scanner (system.in);
+                    System.out.println("Please enter number 1:");
+                    int num1 = Scanner.nextInt();
+                    int sum = num1 , c = 1 , min = num1 ;
+                    double avg = 0.0 ;
+                    while ( c <= 3 ){
+                              
+          

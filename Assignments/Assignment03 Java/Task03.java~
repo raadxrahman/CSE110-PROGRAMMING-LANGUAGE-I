@@ -1,0 +1,17 @@
+//Write javacode of a program for finding area of a rectangle given height and width by the user.
+
+import java.util.Scanner;
+public class Task03
+{
+    public static void main(String[] args)
+    {
+        Scanner sc = new Scanner ( System.in );
+        int height, width, area;
+        System.out.println("Please Enter Height: ");
+        height = sc.nextInt();
+        System.out.println("Please Enter Width: ");
+        width = sc.nextInt();
+        area = height*width;
+        System.out.println(area);
+    }
+}

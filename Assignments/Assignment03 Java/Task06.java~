@@ -1,0 +1,18 @@
+//Write javacode of a program that reads a value of S and then calculates the value of L.
+
+import java.util.Scanner;
+public class Task06
+{
+    public static void main(String[] args)
+    {
+        Scanner sc = new Scanner ( System.in );
+        System.out.println("Please Enter Value: ");
+        int s = sc.nextInt();
+        if (s <100){
+            int l = 3000-(125*s*s);
+            System.out.println(l);
+        }else{
+            System.out.println(int l = 12000/(4+(s*s)/14900));
+        }
+    }
+}

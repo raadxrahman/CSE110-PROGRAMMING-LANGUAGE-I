@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class L706
+{
+    public static void main(String[] args)
+    { 
+        Scanner scanner= new Scanner(System.in);
+        System.out.println("Please enter height number");
+        int heightnum = scanner.nextInt();
+        for (int heightc=1;heightc<=heightnum; ++heightc )
+        { 
+            for (int columnc=1; columnc<=heightc; ++columnc)
+            {
+                System.out.print(columnc);  
+            }
+            System.out.println();
+        }
+    }
+}
